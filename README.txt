@@ -12,7 +12,7 @@ i.   Deskripsi Program
         waktu yang dibutuhkan untuk pemecahan, dan total tes yang dilakukan.
 
 
-ii.  Requirements dan instalasi
+ii.  Requirements dan Instalasi
      >> Pastikan Anda sudah memiliki instalasi Python 3 terbaru.
         Informasi lebih lanjut dapat dilihat di https://www.python.org/
         Setelah itu, program dapat dijalankan melalui IDLE atau
