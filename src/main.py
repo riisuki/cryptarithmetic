@@ -155,7 +155,7 @@ def IsMaxList():
     i = 0
     isMax = True
     while (isMax) and (i<len(nilaiHuruf)):
-        if nilaiHuruf[i] != len(nilaiHuruf) - 1:
+        if nilaiHuruf[i] != 9 - i:
             isMax = False
         else:
             i = i + 1
@@ -215,9 +215,8 @@ else:
             
         
         if not IsHurufAwalNol():
-            if not satujawab:
-                if IsMaxList():
-                    selesai = True
+            if IsMaxList():
+                selesai = True
                     
             totalOperand = 0
             count = count + 1
