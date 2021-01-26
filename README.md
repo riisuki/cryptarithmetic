@@ -5,7 +5,7 @@ Tugas Kecil 1 IF2211 Strategi Algoritma Semester II 2020/2021
 Cryptarithmetic adalah puzzle penjumlahan dalam matematika. Dalam cryptarithmetic, angka penjumlahan diganti dengan huruf. Setiap angka direpresentasikan dengan huruf yang berbeda. Program menerima input persoalan cryptarithmetic dari file teks, kemudian mencetak hasil pemecahannya dengan algoritma brute force, waktu yang dibutuhkan untuk pemecahan, dan total tes yang dilakukan.
 
 
-## Requirements dan instalasi
+## Requirements dan Instalasi
 * Pastikan Anda sudah memiliki instalasi Python 3 terbaru. Informasi lebih lanjut dapat dilihat di https://www.python.org/
 * Setelah itu, program dapat dijalankan melalui IDLE atau terminal.
 
